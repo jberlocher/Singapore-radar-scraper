@@ -7,11 +7,6 @@ import os.path
 
 j=0
 print("SG Radar scraper v1.0")
-#print("Radar options:")
-#print("Option 1 - Scrape last 2 hours of data")
-#print("Option 2 - Scrape last 7 days of data")
-#j=input("Input option: ")
-
 
 print("Request sent...")
 
